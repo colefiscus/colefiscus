@@ -9,6 +9,17 @@
   </a>
 </p>
 
+---
+
+- :mortar_board:&nbsp; &nbsp;  Recently graduated! from the Front End program at [Turing School Of Software and Design](https://turing.io/)
+- :fire:&nbsp; &nbsp; Most Recent Project: [Veg-Share]()
+- :computer:&nbsp; &nbsp; On the side: Building an app for amateur youth team sports coaches.
+- :thinking:&nbsp; &nbsp; What I want to learn next: React Native & SQL.
+<!-- - :keyboard:&nbsp; &nbsp;  Ask Me About:  -->
+<!-- - :metal:&nbsp; &nbsp; Check out my:  -->
+
+---
+
 ### Technologies: 
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
