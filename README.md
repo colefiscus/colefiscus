@@ -52,9 +52,9 @@
 ---
 
 <div align="center">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true&custom_title=2021+Github+Stats" />
+  <img height="200em" width="325em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true&custom_title=2021+Github+Stats" />
   
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact" />
+  <img height="200em" width="325em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact" />
 </div>
   
 ---
