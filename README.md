@@ -52,9 +52,9 @@
 ---
 
 <div align="center">
-  <img height="130em" width="330em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true&custom_title=2021+Github+Stats" />
+  <img width="345em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true&custom_title=2021+Github+Stats" />
   
-  <img height="130em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact" />
+  <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact" />
 </div>
   
 ---
@@ -68,12 +68,12 @@ No Activity tracked this Week
 ---
 
 <p align="center"><strong>CURRENT PROJECTS:</strong></p>
-<div width="100%" align="center">
+<div align="center">
   <a href="https://github.com/colefiscus/coaches-corner">
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
+    <img align="center" width="345em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
   </a>
   <a href="https://github.com/colefiscus/blockbreaker">
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
+    <img align="center" width="345em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
   </a>
 </div>
 
