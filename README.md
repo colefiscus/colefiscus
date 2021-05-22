@@ -1,3 +1,5 @@
+<!-- <img src="https://imgur.com/a/mF0cNfG"> -->
+
 ## Cole Fiscus
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&width=500&lines=Life+is+long+if+you+know+how+to+use+it.)](https://git.io/typing-svg)
