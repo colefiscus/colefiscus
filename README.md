@@ -33,21 +33,28 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${colefiscus}.${colefiscus})
-  
+    
 ![Visitor Count](https://profile-counter.glitch.me/colefiscus/count.svg)
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true" />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true&custom_title=2021+Github+Stats" />
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact" />
+  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact&card_width=405px) -->
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+  
+<a href="https://github.com/colefiscus/coaches-corner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
+</a>
+<a href="https://github.com/colefiscus/blockbreaker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
+</a>
   
 <!--
 
