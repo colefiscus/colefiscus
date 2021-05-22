@@ -1,5 +1,7 @@
 ## Cole Fiscus
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&width=500&lines=Life+is+long+if+you+know+how+to+use+it.)](https://git.io/typing-svg)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/colefiscus/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -34,9 +36,11 @@
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${colefiscus}.${colefiscus})
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=algolia&show_icons=true&&count_private=true&include_all_commits=true" />
+![Visitor Count](https://profile-counter.glitch.me/colefiscus/count.svg)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=algolia&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=colefiscus&theme=yeblu&show_icons=true&&count_private=true&include_all_commits=true" />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colefiscus&theme=yeblu&layout=compact)
 
 
 <!--START_SECTION:waka-->
