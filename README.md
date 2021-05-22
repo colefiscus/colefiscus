@@ -70,10 +70,10 @@ No Activity tracked this Week
 <p align="center"><strong>CURRENT PROJECTS:</strong></p>
 <div align="center">
   <a href="https://github.com/colefiscus/coaches-corner">
-    <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
+    <img align="center" width="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
   </a>
   <a href="https://github.com/colefiscus/blockbreaker">
-    <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
+    <img align="center" width="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
   </a>
 </div>
 
