@@ -10,7 +10,7 @@
   <a href="https://resume.creddle.io/resume/1b20ef4u067" target="_blank">
     <img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&color=yellow">
   </a>
-  <a href="" target="_blank">
+  <a href="https://terminal.turing.edu/profiles/840" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&color=darkgreen">
   </a>
 </p>
