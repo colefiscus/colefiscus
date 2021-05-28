@@ -61,10 +61,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 May, 2021 - 26 May, 2021
+Week: 20 May, 2021 - 27 May, 2021
 
-JavaScript   56 mins         ████████████████████████▒   97.37 % 
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript   2 hrs 21 mins   ██████████████████████▓░░   90.44 % 
+CSS          14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 <!--END_SECTION:waka-->
 
