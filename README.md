@@ -61,7 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2021 - 28 May, 2021
+Week: 22 May, 2021 - 29 May, 2021
 
 JavaScript   2 hrs 21 mins   ██████████████████████▓░░   90.44 % 
 CSS          14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
