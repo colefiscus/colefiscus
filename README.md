@@ -61,10 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 May, 2021 - 02 June, 2021
-
-JavaScript   1 hr 24 mins    █████████████████████▓░░░   86.37 % 
-CSS          13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
