@@ -61,7 +61,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 June, 2021 - 19 June, 2021
+
+JavaScript   2 hrs 28 mins   ██████████████████████▓░░   90.79 % 
+Markdown     15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
 ```
 <!--END_SECTION:waka-->
 
