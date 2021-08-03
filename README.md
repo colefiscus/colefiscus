@@ -61,7 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 July, 2021 - 01 August, 2021
+Week: 27 July, 2021 - 02 August, 2021
 
 CSS          1 hr 19 mins    ██████████████████████░░░   87.41 % 
 HTML         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
