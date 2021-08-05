@@ -61,9 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
-
-JavaScript   2 mins          ███████████████▓░░░░░░░░░   62.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
