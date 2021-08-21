@@ -61,7 +61,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 August, 2021 - 20 August, 2021
+
+JavaScript   2 hrs 51 mins   ████████████████████████▒   96.99 % 
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+MDX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 <!--END_SECTION:waka-->
 
