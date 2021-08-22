@@ -61,11 +61,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 August, 2021 - 20 August, 2021
+Week: 15 August, 2021 - 21 August, 2021
 
-JavaScript   2 hrs 51 mins   ████████████████████████▒   96.99 % 
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-MDX          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+JavaScript   4 hrs 4 mins    ████████████████████████▒   97.86 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+MDX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 <!--END_SECTION:waka-->
 
