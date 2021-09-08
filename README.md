@@ -61,10 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
-
-JavaScript   58 mins         █████████████▒░░░░░░░░░░░   53.94 % 
-CSS          49 mins         ███████████▓░░░░░░░░░░░░░   46.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
