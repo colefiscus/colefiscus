@@ -61,7 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
 JavaScript   1 hr 47 mins    ████████████████████████▓   98.06 % 
 Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
