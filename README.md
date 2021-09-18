@@ -61,10 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2021 - 16 September, 2021
-
-JavaScript   1 hr 47 mins    ████████████████████████▓   98.06 % 
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
