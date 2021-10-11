@@ -61,12 +61,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2021 - 09 October, 2021
+Week: 04 October, 2021 - 10 October, 2021
 
-JavaScript   5 hrs 14 mins   ███████████████████▒░░░░░   77.16 % 
-CSS          1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.91 % 
-HTML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JavaScript   3 hrs 37 mins   ██████████████████████▓░░   90.68 % 
+CSS          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+HTML         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 ```
 <!--END_SECTION:waka-->
 
