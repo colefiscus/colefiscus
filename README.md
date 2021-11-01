@@ -78,7 +78,7 @@ JavaScript   7 hrs 16 mins   █████████████████
 
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&width=1000&lines=Thanks+for+stopping+by)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&width=1000&lines=Thanks+for+stopping+by!)](https://git.io/typing-svg)
   
 <div align="center">
   
