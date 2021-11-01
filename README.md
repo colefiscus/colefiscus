@@ -17,10 +17,10 @@
 
 ---
 
-- 💻&nbsp; &nbsp;  Software Engineer trained in the Front End program at [Turing School Of Software and Design](https://turing.io/).
+- 💻&nbsp; &nbsp;  Software Developer trained in the Front End program at [Turing School Of Software and Design](https://turing.io/).
 - 📖&nbsp; &nbsp; Most Recent Project: [Bookclub](https://github.com/colefiscus/bookclub).
-- 🏅&nbsp; &nbsp; On the side: Building an app for amateur youth team sports coaches.
-- 🏫&nbsp; &nbsp; What I'm learning now: React Native & SQL.
+- 🏅&nbsp; &nbsp; On the side: Building a rating app for dining-out experiences - see the progress at [Viibcheck](https://viibcheck.vercel.app/contact).
+- 🏫&nbsp; &nbsp; What I'm learning now: Advanced CSS & SQL.
 <!-- - :keyboard:&nbsp; &nbsp;  Ask Me About:  -->
 <!-- - :metal:&nbsp; &nbsp; Check out my:  -->
 
@@ -71,17 +71,14 @@ JavaScript   7 hrs 16 mins   █████████████████
 
 <p align="center"><strong>CURRENT PROJECTS:</strong></p>
 <div align="center">
-  <a href="https://github.com/colefiscus/coaches-corner">
-    <img align="center" width="345em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=coaches-corner&theme=yeblu" />
-  </a>
-  <a href="https://github.com/colefiscus/blockbreaker">
-    <img align="center" width="345em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=blockbreaker&theme=yeblu" />
+  <a href="https://github.com/colefiscus/vibecheck">
+    <img align="center" width="345em" src="https://github-readme-stats.vercel.app/api/pin/?username=colefiscus&repo=vibecheck&theme=yeblu" />
   </a>
 </div>
 
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&width=1000&lines=A+few+fun+facts...;I+lived+in+South+America+for+one+year.;I+can+dunk+a+basketball.;The+Pitch+Perfect+competition+is+real.;I+was+in+it...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&center=true&width=1000&lines=Thanks+for+stopping+by)](https://git.io/typing-svg)
   
 <div align="center">
   
