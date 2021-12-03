@@ -61,7 +61,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 November, 2021 - 02 December, 2021
+
+HTML         41 mins         █████████▓░░░░░░░░░░░░░░░   38.27 % 
+CSS          32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.55 % 
+JavaScript   18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+XML          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 <!--END_SECTION:waka-->
 
