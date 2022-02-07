@@ -61,7 +61,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 January, 2022 - 06 February, 2022
+
+JavaScript   21 mins         ███████████████████████▒░   92.84 % 
+Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 <!--END_SECTION:waka-->
 
