@@ -61,10 +61,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
-
-JavaScript   21 mins         ███████████████████████▒░   92.84 % 
-Markdown     1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
