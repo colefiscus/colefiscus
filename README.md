@@ -61,7 +61,14 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 February, 2022 - 17 February, 2022
+
+Total: 1 hr 21 mins
+
+JavaScript   1 hr 14 mins    ███████████████████████░░   91.60 % 
+CSS          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 <!--END_SECTION:waka-->
 
