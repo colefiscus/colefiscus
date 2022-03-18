@@ -62,7 +62,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 March 2022 - To: 17 March 2022
+
+JavaScript   5 hrs 26 mins   ███████████████░░░░░░░░░░   59.49 %
+CSS          2 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Markdown     50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
