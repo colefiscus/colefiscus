@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
+From: 02 May 2022 - To: 09 May 2022
 
 JSON         2 hrs 34 mins   ████████████████░░░░░░░░░   64.16 %
 JavaScript   1 hr 18 mins    ████████░░░░░░░░░░░░░░░░░   32.62 %
