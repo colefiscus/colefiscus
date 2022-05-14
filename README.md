@@ -62,11 +62,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
-
-JSON         39 mins         ████████████████████▒░░░░   81.73 %
-JavaScript   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
